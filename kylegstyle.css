@@ -60,17 +60,20 @@
                  font-family: Helvetica;
             }
             
-            .light { text-shadow: 2px 0 #fff , -2px 0 #fff , 0 2px #fff , 0 -2px #fff, 1px 1px #fff , -1px -1px #fff , 1px -1px #fff , -1px 1px #fff; 
+            .light { text-shadow: 2px 0 black , -2px 0 black , 0 2px black , 0 -2px black, 1px 1px black , -1px -1px black , 1px -1px black , -1px 1px black; 
                  font-size: 25px; 
-                 color: #A3CAE9;
+                 color: white;
                  font-weight: bold;
-                 text-align: center; }
+                 text-align: center;
+                 font-family: Helvetica;
+            }
                  
             .light2 { text-shadow: 2px 0 #fff , -2px 0 #fff , 0 2px #fff , 0 -2px #fff, 1px 1px #fff , -1px -1px #fff , 1px -1px #fff , -1px 1px #fff; 
                  font-size: 17px; 
                  color: #A3CAE9;
                  font-weight: bold;
-                 text-align: center; }
+                 text-align: center;
+                 font-family: Helvetica; }
             
             .script { font-family: Brush Script MT; 
                            font-size: 30px;
@@ -114,7 +117,7 @@
                   height: 450px;
                   border-width: 10px;
                   border-style: solid;
-                  border-color: white;
+                  border-color: black;
                   }
             
             .img3 { width: 450px;
