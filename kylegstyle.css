@@ -130,7 +130,8 @@
             
             .prof { border-radius: 50%;
                     width: 200px;
-                    height: 200px; }
+                    height: 200px;
+                    border-color: black; }
             
             .img-wrap { position: relative;
                         display: inline-block;}
@@ -157,3 +158,4 @@
             .img-wrap:hover::before { opacity: 1; }
 
             .img-wrap:hover .hover-text { opacity: 1; }
+
